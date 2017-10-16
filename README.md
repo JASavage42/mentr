@@ -6,3 +6,5 @@ o What	problem	does	your	app	solve?
    Our app will pair junior level students with an industry professional to serve as a mentor. The mentor will already have gone through the trasntiion from campus to corporate, so they can relate to the student on a way that others can't. They will also be able to provide their knowledge of the industry and give the student some hints and tips so that when they graduate they'll come out better than a student without a mentor.
    
    We developed two apps concurrently with the intentions of merging them in the end. Turns out we were on different versions of Firebase and they didn't merge well so we scrapped this one that had most of our commits: https://github.com/JASavage42/codeathonproject.git. The application we are submitting had the functionality focused on the Chat portion while the other had the focus on the rest of the application.
+
+Our video presentation can be found at: https://youtu.be/f2gghKVlawI. We hope you enjoy.
